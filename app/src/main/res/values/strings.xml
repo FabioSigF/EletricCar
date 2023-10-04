@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Eletric Car</string>
+    <string name="title">Eletric Cars</string>
+    <string name="carros">Carros</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="card_marca">Marca:</string>
+    <string name="card_modelo">Modelo:</string>
+    <string name="card_preco">Preço:</string>
+    <string name="card_bateria">Bateria:</string>
+    <string name="card_potencia">Potência:</string>
+    <string name="card_recarga">Recarga:</string>
+    <string name="card_button">Calcular Autonomia</string>
+    <string name="form_preco">Preço</string>
+    <string name="form_km_percorrido">KM percorrido</string>
+    <string name="form_button">Calcular</string>
+
+
+    <string name="calcAut_title">Calcular Autonomia</string>
+</resources>
